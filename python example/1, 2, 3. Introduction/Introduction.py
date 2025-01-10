@@ -66,6 +66,7 @@
 #     I got a grade of 18.23 in math.
 # """
 
+
 # -------------------------------------- #
 
 # # Logical Operator (and)
@@ -85,16 +86,20 @@
 
 # Logical Operator (or)
 
-print(True or True)
-print(True or False)
-print(False or True)
-print(False or False)
-"""
-'Result in Terminal:'
-    True
-    True
-    True
-    False
-"""
+# print(True or True)
+# print(True or False)
+# print(False or True)
+# print(False or False)
+# """
+# 'Result in Terminal:'
+#     True
+#     True
+#     True
+#     False
+# """
 
+import os
+
+os.system('cls')
+print("Hello World!")
 
