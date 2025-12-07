@@ -18,7 +18,7 @@
 import pandas as pd
 
 # Read Files
-filepath = "C:/Users/Reza Seyyednezhad/Desktop/python/python example/pandas/scores.csv"
+filepath = "../../resources/excel_files/newFile.csv"
 read_file = pd.read_csv(filepath, usecols=['id', 'first_name', 'last_name', 'gender', 
                                            'physics_score', 'chemistry_score', 'biology_score',
                                            'english_score', 'geography_score'])[:40]
