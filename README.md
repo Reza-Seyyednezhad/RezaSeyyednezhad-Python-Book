@@ -26,7 +26,7 @@ This repository contains:
 ## 📂 Project Structure
 
 ```
-RezaSeyyednezhad-Python-Book/
+Comprehensive-Python-Programming-Learning/
 │
 ├── examples/        # Python example codes from the book
 ├── exercises/       # Practice exercises for each chapter
@@ -42,7 +42,7 @@ RezaSeyyednezhad-Python-Book/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/PyRezaSeyyednezhad/RezaSeyyednezhad-Python-Book.git
+git clone https://github.com/Reza-Seyyednezhad/Comprehensive-Python-Programming-Learning.git
 ```
 
 ### 2. (Optional) Install dependencies
@@ -101,7 +101,7 @@ More exercises and difficulty levels (Beginner / Intermediate / Advanced) will b
 ## 📂 ساختار پروژه
 
 ```
-RezaSeyyednezhad-Python-Book/
+Comprehensive-Python-Programming-Learning/
 │
 ├── examples/        # مثال‌های پایتون
 ├── exercises/       # تمرین‌ها
@@ -117,7 +117,7 @@ RezaSeyyednezhad-Python-Book/
 ### ۱. کلون کردن مخزن
 
 ```bash
-git clone https://github.com/PyRezaSeyyednezhad/RezaSeyyednezhad-Python-Book.git
+git clone https://github.com/Reza-Seyyednezhad/Comprehensive-Python-Programming-Learning.git
 ```
 
 ### ۲. (اختیاری) نصب پیش‌نیازها
@@ -159,6 +159,7 @@ python example01.py
 ---
 
 ⭐ **Thank you for visiting the repository!**
+
 
 
 
