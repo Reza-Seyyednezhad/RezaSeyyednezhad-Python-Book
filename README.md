@@ -1,4 +1,4 @@
-# Reza Seyyednezhad Python Book Repository
+# Comprehensive Python Programming Learning
 
 A collection of **Python example codes** and **practice exercises** created alongside my Python educational book project. This repository is designed to provide hands‑on experience with Python programming through simple, clear, and structured examples.
 
@@ -87,7 +87,7 @@ More exercises and difficulty levels (Beginner / Intermediate / Advanced) will b
 ---
 
 # نسخه فارسی README
-
+# آموزش جامع برنامه‌نویسی با پایتون
 ## 📘 درباره این مخزن
 
 این مخزن شامل:
@@ -161,6 +161,7 @@ python example01.py
 ---
 
 ⭐ **Thank you for visiting the repository!**
+
 
 
 
