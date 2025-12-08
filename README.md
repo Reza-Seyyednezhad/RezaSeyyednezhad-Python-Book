@@ -85,7 +85,7 @@ The **exercises** folder contains Python practice problems covering:
 More exercises and difficulty levels (Beginner / Intermediate / Advanced) will be added soon.
 
 ---
-# آموزش جامع برنامه‌نویسی با پایتون (نسخه فارسی)
+# آموزش جامع برنامه‌نویسی با پایتون (نسخه فارسی README)
 ## 📘 درباره این مخزن
 
 این مخزن شامل:
@@ -159,6 +159,7 @@ python example01.py
 ---
 
 ⭐ **Thank you for visiting the repository!**
+
 
 
 
