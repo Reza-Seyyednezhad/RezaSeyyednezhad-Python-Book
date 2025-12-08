@@ -3,10 +3,13 @@
 A collection of **Python example codes** and **practice exercises** created alongside my Python educational book project. This repository is designed to provide hands‑on experience with Python programming through simple, clear, and structured examples.
 
 ---
+
 <p align="center">
   <img src="resources/images/bookCover.jpg" width="500">
 </p>
+
 ---
+
 ## 📘 About This Repository
 
 This repository contains:
@@ -158,5 +161,6 @@ python example01.py
 ---
 
 ⭐ **Thank you for visiting the repository!**
+
 
 
