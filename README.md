@@ -5,7 +5,7 @@ A collection of **Python example codes** and **practice exercises** created alon
 ---
 
 <p align="center">
-  <img src="resources/images/bookCover.jpg" width="500">
+  <img src="resources/images/bookCover.jpg" width="700">
 </p>
 
 ---
@@ -161,6 +161,7 @@ python example01.py
 ---
 
 ⭐ **Thank you for visiting the repository!**
+
 
 
 
